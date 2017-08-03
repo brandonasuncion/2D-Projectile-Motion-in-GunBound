@@ -1,4 +1,3 @@
-# 2D Projectile Motion in GunBound
-<center><img src="images/trico.gif"></center>
-
+# Mapping 2D Projectile Motion in GunBound
+<img src="images/trico.gif">  
 Coming soon...
